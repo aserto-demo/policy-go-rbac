@@ -1,5 +1,5 @@
 {
-    "roots": ["policies","gorbac", "assets"],
+    "roots": ["gorbac", "assets"],
     "metadata": {
       "required_builtins": {
           "builtin1": [
