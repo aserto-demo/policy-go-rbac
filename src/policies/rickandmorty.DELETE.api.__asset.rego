@@ -1,4 +1,4 @@
-package gorbac.DELETE.api.__asset
+package rickandmorty.DELETE.api.__asset
 
 default allowed = false
 
