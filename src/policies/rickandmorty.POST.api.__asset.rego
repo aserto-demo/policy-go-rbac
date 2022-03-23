@@ -1,4 +1,4 @@
-package gorbac.POST.api.__asset
+package rickandmorty.POST.api.__asset
 
 import future.keywords.in
 

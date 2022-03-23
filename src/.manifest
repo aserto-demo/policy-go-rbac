@@ -1,5 +1,5 @@
 {
-    "roots": ["gorbac", "assets"],
+    "roots": ["rickandmorty", "assets"],
     "metadata": {
       "required_builtins": {
           "builtin1": [
